@@ -1,0 +1,14 @@
+C:\Users\prdb\Desktop\JDJD\bin\Debug\net8.0\JDJD.exe
+C:\Users\prdb\Desktop\JDJD\bin\Debug\net8.0\JDJD.deps.json
+C:\Users\prdb\Desktop\JDJD\bin\Debug\net8.0\JDJD.runtimeconfig.json
+C:\Users\prdb\Desktop\JDJD\bin\Debug\net8.0\JDJD.dll
+C:\Users\prdb\Desktop\JDJD\bin\Debug\net8.0\JDJD.pdb
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.AssemblyInfoInputs.cache
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.AssemblyInfo.cs
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.dll
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\refint\JDJD.dll
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.pdb
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\JDJD.genruntimeconfig.cache
+C:\Users\prdb\Desktop\JDJD\obj\Debug\net8.0\ref\JDJD.dll
